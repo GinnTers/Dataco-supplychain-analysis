@@ -84,6 +84,7 @@ Alternatively, you can access **DataCoSupplyChainDataset.txt** via Google Drive 
 - LATAM and Europe markets generated highest revenue but had high late shipment rates.  
 - Basket analysis revealed strong cross-selling opportunities within sports and fitness categories.  
 - Customer spending peaked at month-end, indicating optimal promotion periods.
+- For full insight breakdowns and strategic recommendations, please refer to the `dataco_insights_report.pdf` included in this repository.
 
 ---
 
